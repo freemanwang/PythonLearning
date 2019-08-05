@@ -1,0 +1,1 @@
+name = 'This is form moudle a in package'
